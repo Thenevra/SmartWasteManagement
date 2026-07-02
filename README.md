@@ -216,13 +216,6 @@ curl -X POST http://127.0.0.1:5000/api/sensor-data \
 
 ---
 
-## 👤 Author
-
-**Siddhesh D. Patil**
-
-[![Video Demo](https://img.shields.io/badge/▶%20Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1PlLiPQzTqdE5Sl1fe-Ltj3qkTdTHjDmw/view?usp=sharing)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]([YOUR_GITHUB_LINK_HERE](https://github.com/Siddhesh0389/Smart-Waste-Management-System-For-Metropolitan-Cities))
 
 ---
 
